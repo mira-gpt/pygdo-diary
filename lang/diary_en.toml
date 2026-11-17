@@ -1,0 +1,8 @@
+module_diary = "Diary"
+mt_diary_entries = "Diary entries"
+md_diary_entries = "Read public entries and your own private entries."
+mt_diary_write = "Write a diary entry"
+entry_title = "Title"
+entry_body = "Entry"
+entry_public = "Publish publicly"
+msg_diary_created = "Diary entry saved."
